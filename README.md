@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-  - [Tic Tac Toe]()
+  - [Tic Tac Toe](https://github.com/ag76742/TicTacToe)
 
 <h2>📺 Certifications:</h2>
 
