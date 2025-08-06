@@ -5,6 +5,9 @@
   - [LAMP Stack]()
   - [Vulnerability Assessment]()
 
+<h2>👨‍💻 Programming Projects:</h2>
+
+  - [Tic Tac Toe]()
 
 <h2>📺 Certifications:</h2>
 
